@@ -1,5 +1,5 @@
 // Thay đổi ngày dự sinh của bé Gạo ở đây
-const dueDate = new Date("Dec 01, 2026 00:00:00").getTime();
+const dueDate = new Date("May 10, 2026 08:00:00").getTime();
 
 const updateCountdown = setInterval(function() {
     const now = new Date().getTime();
